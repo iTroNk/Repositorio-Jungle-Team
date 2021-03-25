@@ -10,7 +10,7 @@
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>executable</provides>
   </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.service" library="service.py"/>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">KodiMaster Wizard</summary>
     <description lang="en">The Best Wizard for the Best Builds!  For help or info please visit http://www.kodimaster.com</description>
