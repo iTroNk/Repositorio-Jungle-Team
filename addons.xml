@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.jungle-team" name="Wizard Jungle-Team" version="1.0.0" provider-name="Jungle-Team">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
+
+	<addon id="plugin.program.jungle-team" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR]" version="2.3.9" provider-name="[COLOR teal]Taox[/COLOR] [COLOR purple]Trece[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup"/>
+	<extension point="xbmc.addon.repository" name="[COLOR teal]Taox[/COLOR] [COLOR purple]Wizard[/COLOR] Repo">
+        	<info>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml</info>
+			<checksum>https://github.com/taoxtrece/repository.taoxwizard/raw/master/addons.xml.md5</checksum>
+        	<datadir zip="true">https://github.com/taoxtrece/repository.taoxwizard/raw/master/</datadir>
 	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Kodi Wizard</summary>
-		<description lang="en_GB">Kodi 19 Wizard</description>
-		<disclaimer lang="en_GB"></disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<forum></forum>
-		<website></website> 
-		<email></email>
-		<source></source>
-		<news>
-		</news>
-		<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-	</extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Taox Wizard</summary>
+    <description lang="en">Kodi Builds by Taox Trece.</description>
+    <summary lang="es_ES">Taox Wizard</summary>
+    <description lang="es_ES">Instalador de builds para Kodi.</description>
+    <platform>all</platform>
+  </extension>
 </addon>
+	
+	
 
 </addons>
