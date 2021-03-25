@@ -10,17 +10,12 @@
 <description>Wizard Jungle-Team</description>
 </build>
 
-
-</builds>
-
-<builds>
-
-<build name = "Jungle-Team Wizard2">
+<build name = "ADARA">
 <version>2.0</version>
-<url>https://archive.org/download/palantir-2r-matrix/Palanti2r_Matrix.zip</url>
+<url>https://archive.org/download/palantir-2r-matrix/Palanti2r_Matrixext.zip</url>
 <icon>https://i.ibb.co/HT6QFfJ/icon.png</icon>
 <fanart>https://i.ibb.co/xD2CJsq/fanart.png</fanart>
-<description>Wizard Jungle-Team23</description>
+<description>Wizard Jungle-Tsdadadaeam23</description>
 </build>
 
 </builds>
