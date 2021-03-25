@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.jungle-team" name="[COLOR red]WIZARD TEST JAIME[/COLOR] Repo" version="1.0.6" provider-name="Alfa Addon">
-    <requires>
-        <import addon="xbmc.addon" version="12.0.0"/>
-    </requires>
-    <extension point="xbmc.addon.repository" name="Alfa-Addon Repo">
-        <info>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml</info>
-        <checksum>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/alfa-addon/alfa-repo/raw/master</datadir>
+<addon id="plugin.program.jungle-team" version="99.99.99" name="Indigo" provider-name="tvaddons">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
     </extension>
+    <extension point="xbmc.service" library="service.py" start="startup"/>
     <extension point="xbmc.addon.metadata">
-        <summary>Repositorio para Alfa-Addon</summary>
-        <description></description>
-        <disclaimer>The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.</disclaimer>
+        <summary lang="en">Falso Indigo, NO DESINSTALAR</summary>
+        <description lang="en">Falso Indigo para evitar que el URL Resolver lo instale en cada actualización.</description>
+        <disclaimer lang="en">Falso Indigo, NO DESINSTALAR</disclaimer>
+        <language>en</language>
         <platform>all</platform>
+        <forum>https://www.tvaddons.co/forums</forum>
+        <website>https://www.tvaddons.co</website>
+        <source>https://github.com/tvaddonsco/plugin.program.indigo</source>
     </extension>
 </addon>
+
 </addons>
