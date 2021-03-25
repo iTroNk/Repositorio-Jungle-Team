@@ -10,7 +10,7 @@
 <description>Wizard Jungle-Team</description>
 </build>
 
-<build name = "ADARA">
+<build name = "ADARA2">
 <version>2.0</version>
 <url>https://archive.org/download/palantir-2r-matrix/Palanti2r_Matrixext.zip</url>
 <icon>https://i.ibb.co/HT6QFfJ/icon.png</icon>
