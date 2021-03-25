@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<builds>
+
+    	
+<build name = "Palantir 2 By Matrix">
+<version>0.1.1</version>
+<url>https://archive.org/download/palanti-2r-matrix/Palanti2r_Matrix.zip</url>
+<icon>https://i.imgur.com/WAkspsf.png</icon>
+<fanart>https://i.imgur.com/r6ldT2U.jpg</fanart>
+<description>Palantir 2 Matrix</description>
+</build>
+
+        
+</builds>
