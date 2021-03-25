@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-	<addon id="plugin.program.jungle-team" name="[B][LOWERCASE][CAPITALIZE][COLOR white]WIZARD-[COLOR aquamarine]CHOPO[/CAPITALIZE][/LOWERCASE][/COLOR][/B]" version="3.1" provider-name="CHOPO">
+<addon> id="plugin.program.jungle-team" name="[B][LOWERCASE][CAPITALIZE][COLOR white]WIZARD-[COLOR aquamarine]CHOPO[/CAPITALIZE][/LOWERCASE][/COLOR][/B]" version="3.1" provider-name="CHOPO">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
+	
+	</addon>
 	
 	
 
