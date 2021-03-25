@@ -3,7 +3,7 @@
 
 
 
-<addon id="plugin.program.jungle-team.zip" name="chikiry wizard" version="0.0.3" provider-name="chikiry">
+<addon id="plugin.program.jungle-team" name="Wizard-Jungle-Team" version="3.0.0" provider-name="Jungle-Team">
 <requires>
 <import addon="xbmc.python" version="3.0.0"/>
 </requires>
