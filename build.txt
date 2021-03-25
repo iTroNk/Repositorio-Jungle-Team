@@ -10,6 +10,11 @@
 <description>Wizard Jungle-Team</description>
 </build>
 
+
+</builds>
+
+<builds>
+
 <build name = "Jungle-Team Wizard2">
 <version>2.0</version>
 <url>https://archive.org/download/palantir-2r-matrix/Palanti2r_Matrix.zip</url>
