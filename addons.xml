@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.jungle-team" version="99.99.99" name="Indigo" provider-name="tvaddons">
+<addon id="plugin.program.jungle-team" name="Wizard Jungle-Team" version="1.0.0" provider-name="Jungle-Team">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video executable</provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py" start="startup"/>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">Falso Indigo, NO DESINSTALAR</summary>
-        <description lang="en">Falso Indigo para evitar que el URL Resolver lo instale en cada actualización.</description>
-        <disclaimer lang="en">Falso Indigo, NO DESINSTALAR</disclaimer>
-        <language>en</language>
-        <platform>all</platform>
-        <forum>https://www.tvaddons.co/forums</forum>
-        <website>https://www.tvaddons.co</website>
-        <source>https://github.com/tvaddonsco/plugin.program.indigo</source>
-    </extension>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Kodi Wizard</summary>
+		<description lang="en_GB">Kodi 19 Wizard</description>
+		<disclaimer lang="en_GB"></disclaimer>
+		<language>en</language>
+		<platform>all</platform>
+		<license>GPL-2.0-or-later</license>
+		<forum></forum>
+		<website></website> 
+		<email></email>
+		<source></source>
+		<news>
+		</news>
+		<assets>
+				<icon>resources/icon.png</icon>
+				<fanart>resources/fanart.jpg</fanart>
+				<banner></banner>
+				<clearlogo></clearlogo>
+				<screenshot></screenshot>
+		</assets>
+	</extension>
 </addon>
 
 </addons>
