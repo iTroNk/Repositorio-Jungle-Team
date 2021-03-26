@@ -1,13 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<builds>
-
-<build name = "Jungle-Team Wizard">
-<version>1.0</version>
-<url>https://archive.org/download/palanti-2r-matrix/Palanti2r_Matrix.zip</url>
-<icon>https://i.ibb.co/HT6QFfJ/icon.png</icon>
-<fanart>https://i.ibb.co/xD2CJsq/fanart.png</fanart>
-<description>Wizard Jungle-Team</description>
-</build>
-
-</builds>
+name="Wizard Jungle TEST"
+version="1.0"
+url="http://servermain.diggzwiki.com/builds_old/Xenon_Matrix_testing_5.2_324_1am.zip"
+kodi="19"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+description="A short description of the build."
