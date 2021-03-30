@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.program.sirva1" name="Palantir 2 Wizard By Matrix" version="1.0.0" provider-name="TierraMedia">
+<addon id="plugin.program.sirva1.zip" name="Palantir 2 Wizard By Matrix" version="1.0.0" provider-name="TierraMedia">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
