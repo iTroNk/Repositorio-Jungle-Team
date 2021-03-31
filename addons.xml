@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.program.palantir2.matrix" name="Palantir 2 Wizard By Matrix" version="1.0.0" provider-name="TierraMedia">
+<addon id="plugin.program.jungle-team" name="Jungle-Team" version="1.0.0" provider-name="Jungle-Team">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 	</requires>
@@ -24,7 +24,7 @@
 		</news>
 		<assets>
 				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
+				<fanart>resources/fanart.png</fanart>
 				<banner></banner>
 				<clearlogo></clearlogo>
 				<screenshot></screenshot>
