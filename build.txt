@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <builds>
 
-<build name = "Palantir 2 By Matrix ITRONK">
-<version>0.1.1</version>
-<url>https://archive.org/download/palanti-2r-matrix/Palanti2r_Matrix.zip</url>
-<icon>https://i.imgur.com/WAkspsf.png</icon>
-<fanart>https://i.imgur.com/r6ldT2U.jpg</fanart>
-<description>Palantir 2 Matrix</description>
+<build name = "Wizard Jungle-Team Version BETA">
+<version>1.0.0</version>
+<url>https://archive.org/download/palanti-2r-matrix_202103/Palanti2r_Matrix.zip</url>
+<icon>https://i.ibb.co/RPsG8Z0/icon.png</icon>
+<fanart>https://i.ibb.co/LhthzDF/fanart.png</fanart>
+<description>Wizard Jungle-Team</description>
 </build>
 
 </builds>
