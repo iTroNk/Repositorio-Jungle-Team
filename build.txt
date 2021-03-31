@@ -3,7 +3,7 @@
 
 <build name = "Wizard Jungle-Team">
 <version>1.0.0</version>
-<url>https://archive.org/download/palanti-2r-matrix_202103/Palanti2r_Matrix.zip</url>
+<url>https://archive.org/download/build-1-version-matrix-jungle-team_20210331_1834/Build%201%20Version%20Matrix%20JungleTEAM.zip</url>
 <icon>https://i.ibb.co/RPsG8Z0/icon.png</icon>
 <fanart>https://i.ibb.co/LhthzDF/fanart.png</fanart>
 <description>Wizard Jungle-Team</description>
