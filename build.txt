@@ -1,13 +1,12 @@
-name="Matrix chopo"
-version="V3"
-url="https://github.com/elchocolate/Tutorial/releases/download/matrixchopo/wizard-matrix-chopo-v3.zip"
-minor="http://"
-gui="http://"
-kodi="19"
-theme="http://"
-icon="https://i.imgur.com/ZCk8ML2.jpg"
-fanart="https://i.imgur.com/JUrLt7F.jpg"
-preview="http://"
-adult="No"
-info="http://"
-description="primer wizard de chopo para kodi19  basado en matrix"
+<?xml version="1.0" encoding="UTF-8"?>
+<builds>
+
+<build name = "Palantir 2 By Matrix ITRONK">
+<version>0.1.1</version>
+<url>https://archive.org/download/palanti-2r-matrix/Palanti2r_Matrix.zip</url>
+<icon>https://i.imgur.com/WAkspsf.png</icon>
+<fanart>https://i.imgur.com/r6ldT2U.jpg</fanart>
+<description>Palantir 2 Matrix</description>
+</build>
+
+</builds>
